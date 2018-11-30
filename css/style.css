@@ -34,6 +34,7 @@ header {
 	margin-bottom: 50px;
 }
 .about_content h1 {
+	font-weight: bold;
 	color: #fff;
 }
 .about_content p {
