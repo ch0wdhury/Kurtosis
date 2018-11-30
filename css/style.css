@@ -7,9 +7,9 @@ html, body {
 }
 body {
 	background: rgb(0,0,0);
-background: linear-gradient(180deg, rgba(0,0,0,0.8043417195979954) 0%, rgba(253,226,45,0.8295518036316089) 98%);
-background-repeat: no-repeat;
-min-height: 500px;
+	background: linear-gradient(180deg, rgba(0,0,0,0.8043417195979954) 0%, rgba(253,226,45,0.8295518036316089) 98%);
+	background-repeat: no-repeat;
+	min-height: 500px;
 }
 
 /* Header Section Starts */
