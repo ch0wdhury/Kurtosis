@@ -1,8 +1,9 @@
 /* Extra small devices (portrait phones, less than 576px) */
 @media (max-width: 575.98px) {
 	/* Header Section Starts */
-	.navbar-brand {
-		width: 25%;
+	.custom_nav li {
+		margin-top: 5px;
+		margin-bottom: 5px;
 	}
 	.custom_nav li a {
 		font-size: 14px;
@@ -25,6 +26,9 @@
 	.about_content hr {
 		width: 30px;
 		margin: 10px auto;
+	}
+	.service_content h1 {
+		font-size: 14px;
 	}
 	.table_custom {
 		margin-bottom: 40px;
@@ -53,8 +57,9 @@
 /* Small devices (landscape phones, 576px and up) */
 @media (min-width: 576px) and (max-width: 767.98px) {
 	/* Header Section Starts */
-	.navbar-brand {
-		width: 25%;
+	.custom_nav li {
+		margin-top: 10px;
+		margin-bottom: 10px;
 	}
 	.custom_nav li a {
 		font-size: 16px;
@@ -77,6 +82,9 @@
 	.about_content hr {
 		width: 40px;
 		margin: 20px auto;
+	}
+	.service_content h1 {
+		font-size: 18px;
 	}
 	.table_custom {
 		margin-bottom: 60px;
@@ -104,8 +112,9 @@
 /* Medium devices (tablets, 768px and up) */
 @media (min-width: 768px) and (max-width: 991.98px) {
 	/* Header Section Starts */
-	.navbar-brand {
-		width: 20%;
+	.custom_nav li {
+		margin-top: 15px;
+		margin-bottom: 15px;
 	}
 	.custom_nav li a {
 		font-size: 18px;
@@ -128,6 +137,9 @@
 	.about_content hr {
 		width: 50px;
 		margin: 30px auto;
+	}
+	.service_content h1 {
+		font-size: 22px;
 	}
 	.table_custom {
 		margin-bottom: 80px;
