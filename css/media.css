@@ -50,6 +50,7 @@
 	}
 	.footer_content p {
 		font-size: 14px;
+		text-align: center;
 	}
 	/* Footer Section Endss */
 }
@@ -106,6 +107,15 @@
 	}
 	.footer_content p {
 		font-size: 16px;
+		text-align: center;
+	}
+	.footer_content li {
+		font-size: 20px;
+		text-align: center;
+	}
+	.footer_content li p {
+		font-size: 16px;
+		text-align: center;
 	}
 	/* Footer Section Endss */
 }
@@ -160,7 +170,7 @@
 		margin-bottom: 40px;
 	}
 	.footer_content p {
-		font-size: 18px;
+		font-size: 16px;
 	}
 	/* Footer Section Endss */
 }

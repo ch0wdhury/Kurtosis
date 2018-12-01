@@ -89,6 +89,23 @@ footer {
 }
 .footer_content p {
 	color: #fff;
-	font-size: 20px;
+	font-size: 16px;
+	padding-top: 10px;
+}
+.footer_content li a {
+	font-size: 26px;
+	color: #fff!important;
+	transition: .5s ease;
+}
+.footer_content li a:hover {
+	color: #fde22d!important;
+}
+.footer_content li i {
+	font-size: 26px;
+	color: #fff;
+}
+.footer_content li p {
+	font-size: 16px;
+	color: #fff;
 }
 /* Footer Section Endss */
